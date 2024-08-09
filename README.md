@@ -1,8 +1,6 @@
 # Tableau-Power-BI-Projects
 
-## This repository contains a collection of data visualization projects created using Tableau and Power BI.
-
-This repository includes various projects demonstrating:
+#### This repository contains a collection of data visualization projects created using Tableau and Power BI.
 
 - Interactive dashboards with filters and drill-down capabilities.
 - Data analysis using diverse chart types and visualization techniques.
